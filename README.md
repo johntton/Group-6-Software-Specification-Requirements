@@ -1,1 +1,2 @@
-# Group-6-Software-Specification-Requirements
+# Group 6 Software Specification Requirements
+
